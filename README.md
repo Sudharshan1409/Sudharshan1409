@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Sudharshan V Here</h1>
 <h3 align="center">Thanks for stopping by. I work as a Cloud Computing Engineer, Data Engeering mainly focuses on AWS, Databricks, etc. I like to explore new things everyday and passionate to work on serverless technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshan1409&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharshan1409" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudharshan1409&label=Profile%20Views&color=0e75b6&style=flat" alt="Sudharshan1409" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudharshan1409" alt="Sudharshan1409" /></a> </p>
 
