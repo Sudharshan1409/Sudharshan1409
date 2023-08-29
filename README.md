@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sudarshan61kv" target="blank"><img src="https://img.shields.io/twitter/follow/sudarshan61kv?logo=twitter&style=for-the-badge" alt="sudarshan61kv" /></a> </p>
 
-- 🔭 I’m currently working on [Lambda Tuner](https://github.com/Sudharshan1409/LambdaTuner.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sudharshan1409?tab=repositories](https://github.com/Sudharshan1409?tab=repositories)
 
 - 📝 My Blog on Amazon Location Service [https://www.antstack.com/blog/how-to-get-started-with-amazon-location-service/](https://www.antstack.com/blog/how-to-get-started-with-amazon-location-service/)
