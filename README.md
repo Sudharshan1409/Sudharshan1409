@@ -18,7 +18,7 @@
 <br />
 <h4>Projects:</h4>
 
-<a href="https://github.com/Sudharshan1409/Minesweeper">
+<a href="https://github.com/Sudharshan1409/Minesweeper.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=Minesweeper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Sudharshan1409/eclip-cli.git">
@@ -30,10 +30,10 @@
 <a href="https://github.com/Sudharshan1409/AWS-Location-Service">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=AWS-Location-Service&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Sudharshan1409/OwnCloud">
+<a href="https://github.com/Sudharshan1409/OwnCloud.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=OwnCloud&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Sudharshan1409/Queue-Implementation-OpenGL-Glut-">
+<a href="git@github.com:Sudharshan1409/Queue-Implementation-OpenGL-Glut-.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=OpenGL-Glut-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
