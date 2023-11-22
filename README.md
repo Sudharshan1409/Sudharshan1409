@@ -18,8 +18,8 @@
 <br />
 <h4>Projects:</h4>
 
-<a href="https://github.com/Sudharshan1409/LambdaTuner.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=LambdaTuner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Sudharshan1409/Minesweeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=Minesweeper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Sudharshan1409/eclip-cli.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharshan1409&repo=Eclip-CLI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
